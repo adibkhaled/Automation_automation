@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+    <test name="ICD9validCheck">
+        <classes>
+            <class name="therap.icd9.ICD9validCheck"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

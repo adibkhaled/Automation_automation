@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://F:/Selenium_new/opencsv-2.3-src-with-libs/opencsv-2.3/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://F:/Selenium_new/opencsv-2.3-src-with-libs/opencsv-2.3/src" />
+      <root url="file://F:/Selenium_new/opencsv-2.3-src-with-libs/opencsv-2.3/test" />
+      <root url="file://F:/Selenium_new/opencsv-2.3-src-with-libs/opencsv-2.3/examples" />
+    </SOURCES>
+  </library>
+</component>

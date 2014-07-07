@@ -1,0 +1,200 @@
+Invalid ICD9 code: 479.40
+Invalid ICD9 code: 348.20
+Invalid ICD9 code: 753.04
+Invalid ICD9 code: 753.01
+Invalid ICD9 code: 573.90
+Invalid ICD9 code: 753.02
+Invalid ICD9 code: 753.00
+valid ICD9: 531
+valid ICD9: 530
+Invalid ICD9 code: 759.90
+Invalid ICD9 code: 714.00
+Invalid ICD9 code: 714.03
+valid ICD9: 707.1
+Invalid ICD9 code: 000.0
+valid ICD9: 295.3
+valid ICD9: 295.7
+Invalid ICD9 code: 348.40
+Invalid ICD9 code: 538.01
+Invalid ICD9 code: 759.71
+valid ICD9: 510
+Invalid ICD9 code: 759.70
+Invalid ICD9 code: 381.40
+Invalid ICD9 code: 035.43
+valid ICD9: 519
+valid ICD9: 518
+Invalid ICD9 code: 578.90
+Invalid ICD9 code: 584.50
+Invalid ICD9 code: 030.29
+Invalid ICD9 code: 578.89
+Invalid ICD9 code: 348.50
+valid ICD9: 521
+valid ICD9: 524
+valid ICD9: 520
+Invalid ICD9 code: 026.89
+Invalid ICD9 code: 759.80
+Invalid ICD9 code: 381.30
+valid ICD9: 526
+Invalid ICD9 code: 026.81
+Invalid ICD9 code: 342.2
+valid ICD9: 571
+valid ICD9: 342.0
+Invalid ICD9 code: 753.40
+Invalid ICD9 code: 271.10
+Invalid ICD9 code: 342.8
+Invalid ICD9 code: 375.5
+Invalid ICD9 code: 357.00
+Invalid ICD9 code: 812.4
+Invalid ICD9 code: 204.9
+Invalid ICD9 code: 737.90
+valid ICD9: 204.8
+valid ICD9: 573
+Invalid ICD9 code: 759.50
+Invalid ICD9 code: 030.64
+Invalid ICD9 code: 527.06
+Invalid ICD9 code: 368.90
+valid ICD9: 580
+Invalid ICD9 code: 870.40
+valid ICD9: 581
+valid ICD9: 528.0
+Invalid ICD9 code: 753.30
+Invalid ICD9 code: 271.30
+valid ICD9: 584
+valid ICD9: 035.70
+Invalid ICD9 code: 759.60
+Invalid ICD9 code: 493.3
+Invalid ICD9 code: 823.93
+valid ICD9: 493.1
+valid ICD9: 493.0
+Invalid ICD9 code: 348.00
+Invalid ICD9 code: 759.31
+valid ICD9: 850.1
+Invalid ICD9 code: 753.25
+Invalid ICD9 code: 493.4
+Invalid ICD9 code: 759.30
+Invalid ICD9 code: 348.03
+Invalid ICD9 code: 584.00
+Invalid ICD9 code: 527.20
+valid ICD9: 557
+valid ICD9: 555
+valid ICD9: 550
+Invalid ICD9 code: 870.08
+Invalid ICD9 code: 682.90
+valid ICD9: 560
+Invalid ICD9 code: 788.03
+Invalid ICD9 code: 348.10
+valid ICD9: 362.7
+Invalid ICD9 code: 271.00
+valid ICD9: 569
+Invalid ICD9 code: 035.99
+Invalid ICD9 code: 584.09
+valid ICD9: 565
+Invalid ICD9 code: 069.10
+Invalid ICD9 code: 230.01
+Invalid ICD9 code: 381.70
+Invalid ICD9 code: 035.90
+Invalid ICD9 code: 035.91
+valid ICD9: 599.6
+Invalid ICD9 code: 948.07
+Invalid ICD9 code: 047.83
+Invalid ICD9 code: 047.82
+Invalid ICD9 code: 737.50
+Invalid ICD9 code: 047.87
+Invalid ICD9 code: 706.02
+Invalid ICD9 code: 047.85
+Invalid ICD9 code: 050.70
+Invalid ICD9 code: 886.03
+Invalid ICD9 code: 789.50
+Invalid ICD9 code: 069.18
+Invalid ICD9 code: 047.90
+Invalid ICD9 code: 706.10
+Invalid ICD9 code: 482.90
+Invalid ICD9 code: 047.99
+valid ICD9: 783.2
+valid ICD9: 823.0
+valid ICD9: 823.1
+valid ICD9: 823.2
+Invalid ICD9 code: 050.83
+Invalid ICD9 code: 746.30
+Invalid ICD9 code: 783.8
+Invalid ICD9 code: 746.34
+valid ICD9: 783.4
+Invalid ICD9 code: 069.29
+Invalid ICD9 code: 239.80
+Invalid ICD9 code: M91.80
+Invalid ICD9 code: 737.71
+Invalid ICD9 code: 737.70
+Invalid ICD9 code: 050.50
+Invalid ICD9 code: 706.20
+valid ICD9: 996.4
+Invalid ICD9 code: 311.00
+Invalid ICD9 code: 239.90
+Invalid ICD9 code: 016.19
+Invalid ICD9 code: 430.1
+Invalid ICD9 code: 746.10
+valid ICD9: 588.8
+Invalid ICD9 code: 746.60
+Invalid ICD9 code: 735.08
+Invalid ICD9 code: 550.3
+Invalid ICD9 code: 239.60
+Invalid ICD9 code: 479.00
+Invalid ICD9 code: 789.10
+valid ICD9: 550.9
+Invalid ICD9 code: 735.00
+Invalid ICD9 code: 239.69
+Invalid ICD9 code: 080.00
+Invalid ICD9 code: 050.31
+Invalid ICD9 code: 746.70
+Invalid ICD9 code: 061.61
+valid ICD9: 314.0
+Invalid ICD9 code: 314.3
+Invalid ICD9 code: 789.20
+Invalid ICD9 code: 314.5
+Invalid ICD9 code: 244.00
+Invalid ICD9 code: 381.09
+Invalid ICD9 code: 035.03
+Invalid ICD9 code: 244.09
+Invalid ICD9 code: 746.40
+Invalid ICD9 code: 035.10
+Invalid ICD9 code: 735.10
+Invalid ICD9 code: 737.46
+Invalid ICD9 code: 282.00
+Invalid ICD9 code: 768.50
+valid ICD9: 535.6
+Invalid ICD9 code: 282.04
+valid ICD9: 535.4
+Invalid ICD9 code: 345.05
+Invalid ICD9 code: 039.63
+Invalid ICD9 code: 706.80
+Invalid ICD9 code: 768.40
+Invalid ICD9 code: 121.10
+Invalid ICD9 code: 239.20
+Invalid ICD9 code: 039.70
+Invalid ICD9 code: 535.8
+Invalid ICD9 code: 553.30
+Invalid ICD9 code: 072.09
+Invalid ICD9 code: 282.20
+valid ICD9: 804.4
+Invalid ICD9 code: 072.00
+Invalid ICD9 code: 840.00
+Invalid ICD9 code: 345.20
+valid ICD9: 804.2
+valid ICD9: 804.3
+Invalid ICD9 code: 691.80
+valid ICD9: 804.9
+Invalid ICD9 code: 072.02
+Invalid ICD9 code: 421.00
+Invalid ICD9 code: 345.19
+Invalid ICD9 code: 769.9
+Invalid ICD9 code: 715.05
+Invalid ICD9 code: 263.90
+Invalid ICD9 code: 750.03
+valid ICD9: 750.00
+Invalid ICD9 code: 591.00
+Invalid ICD9 code: 750.05
+Invalid ICD9 code: 429.09
+Invalid ICD9 code: 345.09
+Invalid ICD9 code: 429.02
+Invalid ICD9 code: 429.00
+Invalid ICD9 code: 514.0
+Invalid ICD9 code: 514.1

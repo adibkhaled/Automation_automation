@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug" strict="true" name="XMLConfigTest"
+               packages="org.apache.logging.log4j.test">
+  <Properties>
+    <Property name="filename">C:/Users/Gebruiker/Adib_Documents/Adib's Documents/Work_station/Proarail_Selenium/FBPln/FBPln/logs</Property>
+  </Properties>
+  <Filter type="ThresholdFilter" level="trace"/>
+  
+  <Appenders>
+	<Appender type="File" name="File" fileName="${filename}/Selenium-${date:yyyy-MM-dd}.log">
+      <Layout type="PatternLayout">
+        <Pattern>%d %p %C{1.} [%t] %m%n</Pattern>    
+      </Layout>
+    </Appender>
+  </Appenders>
+  
+	
+  <Loggers>
+    <Logger name="LogTestr" level="info">
+      <AppenderRef ref="File"/>
+    </Logger>
+
+    <Root level="info">
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+  
+
+</Configuration>

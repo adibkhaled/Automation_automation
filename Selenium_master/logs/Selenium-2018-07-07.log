@@ -1,0 +1,56 @@
+2018-07-07 20:39:46,079 INFO S.p.n.Apl [main] Starting automated test!
+2018-07-07 20:39:49,624 ERROR S.p.n.FieldController [main] Field is double: Loguit (FbBGS3)
+2018-07-07 20:39:49,629 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:39:49,630 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:39:49,632 ERROR S.p.n.FieldController [main] Field is double: wait (FbPln)
+2018-07-07 20:39:49,909 INFO S.p.n.Controller [main] (filterStartTestCase) Removed 0 testcases. Total is now 1.
+2018-07-07 20:39:49,909 INFO S.p.n.Controller [main] (filterWeightTestCases) Removed 0 testcases. Total is now 1.
+2018-07-07 20:39:49,910 INFO S.p.n.FrameWork [main] TestCase: TBC001 started 2018-07-07_20-39-49.910
+2018-07-07 20:39:49,913 INFO S.p.n.BrowserController [main] Configuring firefox
+2018-07-07 20:40:51,772 ERROR S.p.n.FrameWork [main] Unable to create new remote session. desired capabilities = Capabilities [{marionette=true, firefoxOptions=org.openqa.selenium.firefox.FirefoxOptions@183e8023, browserName=firefox, moz:firefoxOptions=org.openqa.selenium.firefox.FirefoxOptions@183e8023, version=, platform=ANY}], required capabilities = Capabilities [{}]
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'LAPTOP-48OME8PF', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: driver.version: FirefoxDriver
+2018-07-07 20:40:51,773 ERROR S.p.n.FrameWork [main] TestCase: TBC001 failed 2018-07-07_20-40-51.772
+2018-07-07 20:40:51,775 INFO S.p.n.Controller [main] Stopping FireFox
+2018-07-07 20:40:53,777 INFO S.p.n.FrameWork [main] Fails: 1
+2018-07-07 20:40:53,777 INFO S.p.n.FrameWork [main] Succeed: 0
+2018-07-07 20:40:58,996 INFO S.p.n.Apl [main] Automated test stopped after 1 minutes!
+2018-07-07 20:40:58,996 INFO S.p.n.Apl [main] Total testCases: 1
+2018-07-07 20:53:50,309 INFO S.p.n.Apl [main] Starting automated test!
+2018-07-07 20:53:55,076 ERROR S.p.n.FieldController [main] Field is double: Loguit (FbBGS3)
+2018-07-07 20:53:55,081 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:53:55,081 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:53:55,083 ERROR S.p.n.FieldController [main] Field is double: wait (FbPln)
+2018-07-07 20:53:55,553 INFO S.p.n.Controller [main] (filterStartTestCase) Removed 0 testcases. Total is now 1.
+2018-07-07 20:53:55,553 INFO S.p.n.Controller [main] (filterWeightTestCases) Removed 0 testcases. Total is now 1.
+2018-07-07 20:53:55,553 INFO S.p.n.FrameWork [main] TestCase: TBC001 started 2018-07-07_20-53-55.553
+2018-07-07 20:53:55,702 INFO S.p.n.BrowserController [main] Configuring Chrome
+2018-07-07 20:53:55,703 INFO S.p.n.BrowserController [main] Starting Chrome
+2018-07-07 20:53:56,058 ERROR S.p.n.FrameWork [main] The driver executable does not exist: C:\Programs\ChromeDriver\chromedriver.exe
+2018-07-07 20:53:56,058 ERROR S.p.n.FrameWork [main] TestCase: TBC001 failed 2018-07-07_20-53-56.058
+2018-07-07 20:53:56,058 INFO S.p.n.Controller [main] Stopping Chrome
+2018-07-07 20:53:58,059 INFO S.p.n.FrameWork [main] Fails: 1
+2018-07-07 20:53:58,059 INFO S.p.n.FrameWork [main] Succeed: 0
+2018-07-07 20:53:58,492 INFO S.p.n.Apl [main] Automated test stopped after 0 minutes!
+2018-07-07 20:53:58,492 INFO S.p.n.Apl [main] Total testCases: 1
+2018-07-07 20:55:31,197 INFO S.p.n.Apl [main] Starting automated test!
+2018-07-07 20:55:32,697 ERROR S.p.n.FieldController [main] Field is double: Loguit (FbBGS3)
+2018-07-07 20:55:32,697 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:55:32,697 ERROR S.p.n.FieldController [main] Field is double: null (FbBGS3)
+2018-07-07 20:55:32,697 ERROR S.p.n.FieldController [main] Field is double: wait (FbPln)
+2018-07-07 20:55:33,096 INFO S.p.n.Controller [main] (filterStartTestCase) Removed 0 testcases. Total is now 1.
+2018-07-07 20:55:33,097 INFO S.p.n.Controller [main] (filterWeightTestCases) Removed 0 testcases. Total is now 1.
+2018-07-07 20:55:33,098 INFO S.p.n.FrameWork [main] TestCase: TBC001 started 2018-07-07_20-55-33.097
+2018-07-07 20:55:33,100 INFO S.p.n.BrowserController [main] Configuring Chrome
+2018-07-07 20:55:33,101 INFO S.p.n.BrowserController [main] Starting Chrome
+2018-07-07 20:55:54,225 ERROR S.p.n.FrameWork [main] Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'LAPTOP-48OME8PF', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: driver.version: ChromeDriver
+2018-07-07 20:55:54,225 ERROR S.p.n.FrameWork [main] TestCase: TBC001 failed 2018-07-07_20-55-54.225
+2018-07-07 20:55:54,225 INFO S.p.n.Controller [main] Stopping Chrome
+2018-07-07 20:55:56,227 INFO S.p.n.FrameWork [main] Fails: 1
+2018-07-07 20:55:56,227 INFO S.p.n.FrameWork [main] Succeed: 0
+2018-07-07 20:55:56,513 INFO S.p.n.Apl [main] Automated test stopped after 0 minutes!
+2018-07-07 20:55:56,513 INFO S.p.n.Apl [main] Total testCases: 1

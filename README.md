@@ -1,3 +1,3 @@
-selenium_automation
+Automation-automation
 ===================
-This is test automation script.
+This document is for automation and reporting code. 

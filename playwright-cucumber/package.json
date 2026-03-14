@@ -1,0 +1,33 @@
+{
+  "name": "playwright-cucumber-automation",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript with Cucumber BDD Testing Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:chrome": "cucumber-js --tags @chrome",
+    "test:firefox": "cucumber-js --tags @firefox",
+    "test:webkit": "cucumber-js --tags @webkit",
+    "test:headed": "cross-env HEADED=true cucumber-js",
+    "test:debug": "cross-env DEBUG=pw:api cucumber-js"
+  },
+  "keywords": [
+    "playwright",
+    "cucumber",
+    "bdd",
+    "testing"
+  ],
+  "author": "Abin Khaled",
+  "license": "MIT",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "@playwright/test": "^1.48.0",
+    "playwright": "^1.48.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2",
+    "ts-node": "^10.9.2",
+    "cross-env": "^7.0.3"
+  }
+}

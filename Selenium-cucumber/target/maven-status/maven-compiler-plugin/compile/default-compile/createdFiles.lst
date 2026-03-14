@@ -1,0 +1,7 @@
+org\pages\SearchPanel.class
+org\pages\SearchResultPage.class
+org\pages\HomePage.class
+org\automation\Browser.class
+org\automation\CompletePage.class
+org\automation\PageBase.class
+org\automation\ScreenshotUtil.class

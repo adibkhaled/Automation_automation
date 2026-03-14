@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.automation.tests.OpencartTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.16 s -- in org.automation.tests.OpencartTests

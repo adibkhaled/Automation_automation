@@ -15,19 +15,19 @@
     "playwright",
     "cucumber",
     "bdd",
-    "testing"
+    "testing",
+    "typescript",
+    "e2e"
   ],
   "author": "Abin Khaled",
   "license": "MIT",
-  "dependencies": {
-    "@cucumber/cucumber": "^10.0.1",
-    "@playwright/test": "^1.48.0",
-    "playwright": "^1.48.0"
-  },
   "devDependencies": {
-    "@types/node": "^22.10.0",
-    "typescript": "^5.7.2",
-    "ts-node": "^10.9.2",
-    "cross-env": "^7.0.3"
+    "@cucumber/cucumber": "^13.2.0",
+    "@playwright/test": "latest",
+    "@types/node": "latest",
+    "cross-env": "latest",
+    "playwright": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
   }
 }

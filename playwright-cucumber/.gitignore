@@ -17,3 +17,4 @@ test-results/
 cucumber-report.html
 cucumber-report.json
 cucumber-report.xml
+package-lock.json
